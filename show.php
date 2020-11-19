@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>ITF Lab</title>
+    <title>ITF Lab 3</title>
 </head>
 
 <body>
