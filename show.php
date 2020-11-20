@@ -40,6 +40,9 @@ while($Result = mysqli_fetch_array($res))
 }
 ?>
     </table>
+    <a href = "from.html">
+    Add user
+    </a>
     <?php
 mysqli_close($conn);
 ?>
