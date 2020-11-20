@@ -39,7 +39,7 @@
         </td>
         <td><?php echo $Result['comment']; ?></td>
         <td><?php echo $Result['link']; ?></td>
-        <td><a href="delete.php?ids=<?php echo $Result['id'];?>">Delete</a></td>
+        <td><a href="delete.php?id=<?php echo $Result['id'];?>">Delete</a></td>
         <td><a href="edit.php?id=<?php echo $Result['id'];?>">edit</a></td>
       </tr>
     <?php
